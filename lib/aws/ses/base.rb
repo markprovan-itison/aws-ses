@@ -35,7 +35,7 @@ module AWS #:nodoc:
     
     API_VERSION = '2010-12-01'
 
-    DEFAULT_REGION = 'us-east-1'
+    DEFAULT_REGION = 'eu-west-1'
 
     SERVICE = 'ses'
 
